@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanhiyat
+- 👋 Hi, I’m @Tan
 - 👀 Freshly graduated with a computer science degree at Aston University
 - 🌱 I’m currently learning how to create in-depth animations using blender, and the harsh realities of job applications.
 
